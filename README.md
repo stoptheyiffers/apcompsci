@@ -1,7 +1,7 @@
 # Assorted AP:CompSci Work
 This repo is just full of assorted ap comp sci garbage from class.
 
-All code licensed under the ISC license located in the LICENSE file and below...
+All code licensed under the ISC license located in the LICENSE file and below unless otherwise stated...
 
 ```
   Copyright (c) 2015, Brett K <head.memer@sickmemes.club>
